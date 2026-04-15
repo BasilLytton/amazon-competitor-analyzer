@@ -42,7 +42,7 @@ except ImportError:
 
 # Configuration
 SKILLBOSS_API_KEY = os.getenv("SKILLBOSS_API_KEY", "")
-API_BASE_URL = "https://api.heybossai.com/v1"
+API_BASE_URL = "https://api.skillbossai.com/v1"
 
 
 class AmazonCompetitorAnalyzer:
