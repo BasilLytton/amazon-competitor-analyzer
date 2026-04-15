@@ -40,7 +40,7 @@ This skill scrapes Amazon product data from user-provided ASINs using SkillBoss 
 
 You need a SkillBoss API Hub account and API key:
 
-1. Visit [heybossai.com](https://heybossai.com)
+1. Visit [skillbossai.com](https://skillbossai.com)
 2. Sign up for an account
 3. Navigate to API Settings
 4. Generate an API key
@@ -105,7 +105,7 @@ pip install python-dotenv
 
 | Variable | Required | Description |
 |----------|----------|-------------|
-| SKILLBOSS_API_KEY | Yes | Your SkillBoss API Hub key. Get it from [SkillBoss Console](https://heybossai.com) |
+| SKILLBOSS_API_KEY | Yes | Your SkillBoss API Hub key. Get it from [SkillBoss Console](https://skillbossai.com) |
 
 ## Error Handling
 
